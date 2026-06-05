@@ -136,7 +136,7 @@ def plot_cost_breakdown(fixed_costs, total_var_cost):
 def render_sidebar():
     """Renders the team recognition sidebar."""
     with st.sidebar:
-        st.markdown("### 👨‍💻 Development Team")
+        st.markdown("### 👨‍💻 ROI Estimator")
         st.markdown("---")
         # EXAMINER FOCUS: Highly visible team section
         st.info("**Malik Ashhad Nadeem**\n\nReg: **25-ME-120**")
