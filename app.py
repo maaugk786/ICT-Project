@@ -145,7 +145,7 @@ def render_sidebar():
         st.info("**Sajjad Ahmed**\n\nReg: 25-ME-76")
         st.info("**Muhammad Rafay Naveed**\n\nReg: 25-ME-180")
         st.markdown("---")
-        st.markdown("<p style='font-size: 0.8rem; color: gray;'>Final Year ICT Project<br>Academic Year 2025-2026</p>", unsafe_allow_html=True)
+        st.markdown("<p style='font-size: 0.8rem; color: gray;'>ICT Project<br>Semester 02<br>Academic Year 2025-2026</p>", unsafe_allow_html=True)
 
 def main():
     inject_custom_css()
