@@ -139,11 +139,11 @@ def render_sidebar():
         st.markdown("### 👨‍💻 Development Team")
         st.markdown("---")
         # EXAMINER FOCUS: Highly visible team section
-        st.info("**Malik Ashhad Nadeem**\n\nReg: 25-ME-120")
-        st.info("**Muhammad Abdullah Asad**\n\nReg: 25-ME-20")
-        st.info("**Afnan Mustafa**\n\nReg: 25-ME-64")
-        st.info("**Sajjad Ahmed**\n\nReg: 25-ME-76")
-        st.info("**Muhammad Rafay Naveed**\n\nReg: 25-ME-180")
+        st.info("**Malik Ashhad Nadeem**\n\nReg: **25-ME-120**")
+        st.info("**Muhammad Abdullah Asad**\n\nReg: **25-ME-20**")
+        st.info("**Afnan Mustafa**\n\nReg: **25-ME-64**")
+        st.info("**Sajjad Ahmed**\n\nReg: **25-ME-76**")
+        st.info("**Muhammad Rafay Naveed**\n\nReg: **25-ME-180**")
         st.markdown("---")
         st.markdown("<p style='font-size: 0.8rem; color: gray;'>ICT Project<br>Semester 02<br>Academic Year 2025-2026</p>", unsafe_allow_html=True)
 
